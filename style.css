@@ -1030,6 +1030,10 @@ p {
 		width: fit-content;
 		margin: 0 auto;
 	}
+	.section-heading{
+		font-size: 5rem;
+	}
+
 }
 
 /* copyright Section */
